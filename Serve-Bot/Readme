@@ -1,0 +1,8 @@
+Technology: Arduino Mega Board, Infrared Sensor, DC Motors.,
+Description: It is a line follower robot which was developed to help 
+the people in old-age homes and also covid affected patients for 
+supplying their requirements. We have used Arduino Mega as the 
+main controller and auto-calibrated Grey Robotics IR sensors array for detecting the line 
+with more accuracy. Two rechargeable batteries of 12 volts and 7Ah
+were used as the power supply.
+• Software Used: Arduino Programming Language.
